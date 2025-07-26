@@ -1,3 +1,6 @@
+//Lab Task-1: Write a program for 16x2 LCD to display your register number (ex: “20BEC1001”) at row-0 3rd position and your name (ex: “ABCDEFGH”) at beginning of the row-1.
+// Assume LCD operates in 4-bit with EN and RS active state. Design and verify this logic on the Nucleo-L152RE board using online Keil Studio platform.
+
 #include "mbed.h"
 #include "TextLCD.h"
 TextLCD lcd(PC_0,PC_1,PB_0,PA_4, PA_1, PA_0); // rs, e, d4-d7
