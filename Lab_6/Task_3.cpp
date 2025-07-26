@@ -1,3 +1,8 @@
+//Lab Task-3: Write a program to design a solar tracking system for harvesting solar energy efficiently by the solar panels. This system is constructed by fitting two LDRs, angled away from
+//each other by around 90, to a servo. Continuously read the light value sensed by the two LDRs and rotates the servo so that each is receiving equal light. As a sun-tracking
+//system will be located to track the sun from sunrise to sunset, i.e. not more than 180. Also, display both LDR values and present Servo motor position on LCD. Implement
+//and verify this logic on STM32 board.
+
 #include "mbed.h"
 #include "TextLCD.h"
 TextLCD lcd(PC_0,PC_1,PB_0,PA_4,PA_1,PA_0);
