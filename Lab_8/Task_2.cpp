@@ -1,3 +1,5 @@
+//Lab Task-2: Home automation with LED and buzzer
+
 #include "mbed.h"
 Serial bt(PC_10, PC_11);
 DigitalOut led(LED1);
