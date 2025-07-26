@@ -1,3 +1,5 @@
+//Lab Task-2: Blinking of LEDs alternatively in pairs (1010, 0101)
+
 #include "mbed.h"
 DigitalOut myled1(PC_4);
 DigitalOut myled2(PB_13);
