@@ -1,3 +1,6 @@
+//Lab Task-2: Write a C++ program with mbed APIs to gradually increase and decrease on-board LED brightness by receiving a character (“i” for increase and “d” for decrease) from
+//PC via host terminal application (Tera term) using PWM signal with variable duty cycle. Implement and verify this logic on the STM32 Nucleo-64 board using Keil Studio Cloud IDE.
+
 #include "mbed.h"
 Serial pc(USBTX,USBRX);
 PwmOut led(PC_8);
