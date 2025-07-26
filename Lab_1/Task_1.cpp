@@ -1,3 +1,5 @@
+//Lab Task-1: Blinking of LED on Board
+
 #include "mbed.h"
 DigitalOut myled(LED1);
 int main(){
