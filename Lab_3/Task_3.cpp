@@ -1,3 +1,5 @@
+//Lab Task-3: Write a C++ code with mbed APIs to generate a music note SA-RE-GA-MA-PA-THANEE on the buzzer using PWM signal.
+
 #include "mbed.h"
 PwmOut speaker(PC_8);
 int main(){
