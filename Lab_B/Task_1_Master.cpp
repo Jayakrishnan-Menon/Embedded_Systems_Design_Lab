@@ -1,3 +1,5 @@
+//Lab Task-1: Read input form master and display on slave.
+
 #include "mbed.h"
 SPI spi(PB_15, PB_14, PB_13);
 DigitalOut cs(PB_12);
