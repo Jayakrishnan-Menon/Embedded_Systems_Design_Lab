@@ -1,3 +1,9 @@
+//Lab Task-2: Write a mbed C++ program to design a password based door locking system in which the system accept 4-digit password (last 4-digit of your reg. no) via keypad. Use the
+//LCD display to message “Enter Password” on the first line and display * symbol on the second line of the LCD to represent every digit of the password entered. Check whether entered password 
+//matches with actual password, if matched activate the servo to open the door else also display message “Correct Password” on LCD first line and “Door opening” message on the LCD second line. 
+//If password not matched, activate the buzzer also display message “Incorrect Password” on LCD first line and “Door can’t open” message on the LCD second line. Assume LCD operates in 4-bit with EN
+//and RS active state. Design and verify this logic on Nucleo 152RE board using online Keil Studio platform.
+
 #include "mbed.h"
 #include "keypad.h"
 #include "TextLCD.h"
