@@ -1,3 +1,5 @@
+//Lab Task-3: Half Adder.
+
 #include "mbed.h"
 SPISlave ser_port(PB_15, PB_14, PB_13, PB_12);
 Serial pc(USBTX, USBRX);
