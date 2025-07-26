@@ -10,9 +10,11 @@ For Quick access the links to the documantation are provided below:
 <td><a href="https://github.com/Jayakrishnan-Menon/Embedded_Systems_Design_Lab/blob/4bedd4f4afbf927e2749035f17f655a400a0d737/Lab_1/LAB%201.pdf" target="_blank" rel="noopener noreferrer">LAB 1</a></td>
 </tr>
 <tr>
+<td>Working with LEDs & Switches</td>
 <td><a href="https://github.com/Jayakrishnan-Menon/Embedded_Systems_Design_Lab/blob/4bedd4f4afbf927e2749035f17f655a400a0d737/Lab_2/LAB%202.pdf" target="_blank" rel="noopener noreferrer">LAB 2</a></td>
 </tr>
 <tr>
+<td>Working with PWM</td>
 <td><a href="https://github.com/Jayakrishnan-Menon/Embedded_Systems_Design_Lab/blob/4bedd4f4afbf927e2749035f17f655a400a0d737/Lab_3/LAB%203.pdf" target="_blank" rel="noopener noreferrer">LAB 3</a></td>
 </tr>
 <tr>
