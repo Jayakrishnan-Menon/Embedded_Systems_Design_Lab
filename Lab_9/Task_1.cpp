@@ -1,3 +1,6 @@
+//Lab Task-1: Write a mbed C++ program to accepts input from a 4x3 keypad and displays it on the serial monitor and LCD. Assume LCD operates in 4-bit with EN and RS active state.
+//Design and verify this logic on Nucleo 152RE board using online Keil Studio platform.
+
 #include "mbed.h"
 #include "keypad.h"
 #include "TextLCD.h"
