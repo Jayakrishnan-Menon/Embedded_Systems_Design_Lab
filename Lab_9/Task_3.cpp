@@ -1,3 +1,6 @@
+//Lab Task-3: Write a mbed C++program to design home security system that consists of three main modules (1) Intruder detection (2) Activate fence light during night time (2) password
+//based door lock system. (Challenging Task)
+
 #include "mbed.h"
 #include "keypad.h"
 #include "TextLCD.h"
