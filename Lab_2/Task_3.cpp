@@ -1,3 +1,5 @@
+//Lab Task-3: Write a C++ program with mbed APIs to design a traffic light controller system for a four lane junction (North, South, East, West) to coordinate the traffic moves.
+
 #include "mbed.h"
 DigitalOut r1(PB_4);
 DigitalOut y1(PB_5);
