@@ -1,3 +1,8 @@
+//Lab Task-2: Write a mbed C++ program to design a token display system which helps to serve the customer without the need of standing in a queue. This display system consist of one
+//7-segment display to display token numbers from 0 to 9, and token numbers are received into Nucleo board via 4x3 keypad. Design and implement this logic on the
+//STM 32 Nucleo L152RE board using Keil studio could platform.
+
+
 #include "mbed.h"
 #include "keypad.h"
 Keypad keypad (PC_0, PC_1, PB_0, PC_8, PA_4, PA_1, PA_0);
