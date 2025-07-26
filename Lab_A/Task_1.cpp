@@ -1,3 +1,6 @@
+//Lab Task-1: Write a mbed C++ program to display decimal values from 0 to 9 on the 7-segment display interfaced with digital pins of Nucleo boards. Once the sequence completed
+// from 0 to 9 then repeat the sequence again. Design and implement this logic on the STM 32 Nucleo L152RE board using Keil studio could platform.
+
 #include "mbed.h"
 BusOut display (PA_10,PB_3,PB_5,PB_4,PB_10,PA_8,PA_9,PC_7);
 int main(){
