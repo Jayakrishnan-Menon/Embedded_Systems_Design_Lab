@@ -1,3 +1,5 @@
+//Lab Task-1: Print name and registration number in smartphone serial console
+
 #include "mbed.h"
 Serial pc(USBTX, USBRX);
 Serial bt(PC_10, PC_11);
