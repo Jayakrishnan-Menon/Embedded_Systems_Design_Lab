@@ -1,3 +1,5 @@
+//Lab Task-3: Write a program to design smart parking system using HC-SR04 ultrasonic sensor, servo motor, buzzer, LCD and STM32 Nucleo-64 board. (Challenging Task)
+
 #include "mbed.h"
 #include "TextLCD.h"
 PwmOut PW(PC_9);
