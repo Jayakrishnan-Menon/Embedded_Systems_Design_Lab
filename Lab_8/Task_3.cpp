@@ -1,3 +1,5 @@
+//Lab Task-3: Temperature monitoring system 
+
 #include "mbed.h"
 Serial bt(PC_10, PC_11);
 AnalogIn temp(PC_5);
