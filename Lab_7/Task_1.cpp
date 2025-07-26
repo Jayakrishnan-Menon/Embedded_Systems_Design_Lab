@@ -1,3 +1,6 @@
+//Lab Task-1: Write a program to read distance value from HC-SR04 ultrasonic sensor module in cm and print it on the serial monitor. Implement and verify this logic on the STM32 Nucleo
+//64 board using Keil Studio Cloud IDE.
+
 #include "mbed.h"
 Serial PC(USBTX, USBRX);
 DigitalOut trigger(PC_8);
