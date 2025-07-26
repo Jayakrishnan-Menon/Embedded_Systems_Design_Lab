@@ -1,3 +1,5 @@
+//Lab Task-3: Half Adder.
+
 #include "mbed.h"
 SPI ser_port(PB_15, PB_14, PB_13);
 DigitalOut cs(PB_12);
