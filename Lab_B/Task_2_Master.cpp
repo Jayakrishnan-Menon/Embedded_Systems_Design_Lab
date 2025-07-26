@@ -1,3 +1,5 @@
+//Lab Task-2: Exchange of Button press state between master and slave.
+
 #include "mbed.h"
 SPI ser_port(PB_15, PB_14, PB_13);
 DigitalOut cs(PB_12);
