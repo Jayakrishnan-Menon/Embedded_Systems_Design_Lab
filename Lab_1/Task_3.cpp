@@ -1,3 +1,5 @@
+//Lab Task-3: Blinking one LED at a time serially (1000, 0100, 0010, 0001)
+
 #include "mbed.h"
 DigitalOut myled1(PC_4);
 DigitalOut myled2(PB_13);
