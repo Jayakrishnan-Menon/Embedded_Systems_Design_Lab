@@ -1,3 +1,5 @@
+//Lab Task-4: Write a C++ program with mbed APIs to design a battery level indicator system using potentiometer and LEDs.
+
 #include "mbed.h"
 Serial pc(USBTX,USBRX);
 AnalogIn ain(PC_3);
